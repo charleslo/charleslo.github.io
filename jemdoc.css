@@ -64,6 +64,15 @@ a:hover {
 	border-bottom: 1px gray dotted;
 }
 
+.fa:hover { 
+	border-bottom: none;
+  opacity: 0.7;
+}
+.ai:hover { 
+	border-bottom: none;
+  opacity: 0.7;
+}
+
 #layout-menu a.current:link, #layout-menu a.current:visited {
 	color: #022b6d;
 	border-bottom: 1px gray solid;
